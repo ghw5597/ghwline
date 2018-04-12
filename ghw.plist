@@ -41,7 +41,7 @@
     <string>com.ghwDeve.ghwline</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.0.5</string>
+    <string>1.0.3</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
