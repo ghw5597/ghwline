@@ -38,10 +38,10 @@
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>com.ghwDeve.ghwline</string>
+    <string>com.justep.oa</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
-    <string>1.1.3</string>
+    <string>1.1.1</string>
     <key>kind</key>
     <string>software</string>
     <key>title</key>
